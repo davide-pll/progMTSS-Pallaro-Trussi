@@ -2,6 +2,6 @@
 2101095
 
 ## Componenti
-- [Processori](componenti/processori.md)
-- [Schede Madri](componenti/schede_madri.md)
+- [Processori](processori.md)
+- [Schede Madri](schede_madri.md)
 
