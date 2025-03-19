@@ -1,1 +1,4 @@
-2110993 2101095\nProcessori: Intel i9\n AMD Ryzen 7
+2110993 2101095
+## Processori:
+- Intel i9
+- AMD Ryzen 7
